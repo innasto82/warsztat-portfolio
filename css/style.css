@@ -239,13 +239,13 @@ justify-content: space-between;
 
 /* Responsive styles */
 
-@media (max-whidth-1200px) {
+@media (max-width:1200px) {
     .container {
         max-width: 992px;
         }
     }
     
-    @media (max-whidth-992px) {
+    @media (max-width:992px) {
         .container {
             max-width: 768px;
         }
@@ -255,7 +255,7 @@ justify-content: space-between;
         }
     }
     
-    @media (max-whidth-768px) {
+    @media (max-width:768px) {
         .container {
             max-width: 95%;
         }
@@ -265,7 +265,7 @@ justify-content: space-between;
         } 
     }
     
-    @media (max-whidth-480px) {
+    @media (max-width:480px) {
         .main-header .main-header-content h1 {
             font-size: 3em;
         }
