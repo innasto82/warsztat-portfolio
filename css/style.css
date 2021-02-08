@@ -81,7 +81,7 @@ section {
 .main-header, .main-header-content p {
 color: #333;
 font-size: 1.3em;
-margin: 0;
+margin: 40px 0;
 }
 
 .main-header, .main-header-content p span {
